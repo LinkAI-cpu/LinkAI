@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/public/banner.png" alt="LinkAI Logo" width="150" height="150">
+  <img src="/public/linkpp.png" alt="LinkAI Logo" width="150" height="150">
   <h1>LinkAI - Advanced DeFi Intelligence Network</h1>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
