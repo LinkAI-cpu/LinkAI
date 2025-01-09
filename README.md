@@ -1,3 +1,5 @@
+![banner](./nouveau_projet(5).png)
+
 <div align="center">
 
 # TrunkAI Analytics Platform
