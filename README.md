@@ -1,4 +1,4 @@
-![banner](./nouveau_projet(5).png)
+![banner](./banner2.png)
 
 <div align="center">
 
